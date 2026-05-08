@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zamanak W Zamany
+
+This log tracks the cryptographic history and versioning for the song **Zamanak W Zamany** (zamanak-w-zamany).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:31:45.260746 | `v1` | `26ec7b62c463a9d1c9650fd5ff018a5ebb971e8975a0de37d08ab1932827ccc2` | `12ed9baee313670d32ee33b0e1912855ad20d90acac7aa20c6b21e79bf7119f5` | `2026-05-09_zamanak-w-zamany-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
